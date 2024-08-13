@@ -12,7 +12,8 @@ sections:
 
 
       unlike others our bait isnt cheaply made , its made with good ingredients
-      and carefully hand crafted       [Learn
+      and carefully hand crafted to see more go on our instagram and tiktok
+      below      [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
