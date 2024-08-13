@@ -27,7 +27,7 @@ sections:
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
         variant: contained
-        color: secondary
+        color: primary
     image:
       type: Image
       url: /images/hero.svg
