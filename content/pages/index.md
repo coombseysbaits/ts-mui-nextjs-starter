@@ -16,7 +16,7 @@ sections:
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
-        label: ''
+        label: instagram
         url: ''
         size: large
         variant: contained
