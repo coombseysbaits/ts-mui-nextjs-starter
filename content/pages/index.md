@@ -24,7 +24,7 @@ sections:
         color: primary
       - type: Button
         label: tiktok
-        url: 'https://www.tiktok.com/@coombseys_baits?_t=8oqZ2wlXiz2&_r'
+        url: 'https://www.tiktok.com/@coombseys_baits?_t=8oqZ2wlXiz2&_r=1'
         size: large
         variant: contained
         color: primary
