@@ -17,7 +17,7 @@ sections:
     actions:
       - type: Button
         label: instagram
-        url: ''
+        url: 'https://www.instagram.com/coombeys_baits_?igsh=ejFwZjBhcHh3anpj'
         size: large
         variant: contained
         color: primary
