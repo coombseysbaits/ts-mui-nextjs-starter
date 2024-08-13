@@ -24,7 +24,7 @@ sections:
         color: primary
       - type: Button
         label: tiktok
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: 'https://www.tiktok.com/@coombseys_baits?_t=8oqZ2wlXiz2&_r'
         size: large
         variant: contained
         color: primary
