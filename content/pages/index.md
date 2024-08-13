@@ -5,8 +5,15 @@ sections:
   - type: HeroSection
     title: Coombseys baits
     subtitle: best carp bait on the market
-    text: |2
-       [Learn more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: >
+      hello , im a young teen with a passion of carp fishing and want to turn it
+      into a career, and thats why i have this website. we have tested, working
+      carp bait. brilliant quality wont fall off hook or crumble off.
+
+
+      unlike others our bait isnt cheaply made , its made with good ingredients
+      and carefully hand crafted       [Learn
+      more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
         label: Start Building
