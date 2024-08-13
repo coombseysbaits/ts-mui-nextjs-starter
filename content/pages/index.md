@@ -5,10 +5,8 @@ sections:
   - type: HeroSection
     title: Coombseys baits
     subtitle: best carp bait on the market
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: |2
+       [Learn more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
         label: Start Building
