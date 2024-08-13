@@ -16,7 +16,7 @@ sections:
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
-        label: Start Building
+        label: ''
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
