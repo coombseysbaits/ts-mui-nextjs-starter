@@ -23,7 +23,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: ''
+        label: tiktok
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
         variant: outlined
