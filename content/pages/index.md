@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Coombseys baits
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: best carp bait on the market
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
